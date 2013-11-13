@@ -1,0 +1,1 @@
+Hacer el ejercicio en C, que sea general, que se le de por parametro el numero de puntos y als condiciones iniciales
